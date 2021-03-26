@@ -13,5 +13,5 @@ packages:
 pandas, numpy matplotlib, os, sys, time
 
 Run:
-python nt_comp.py -SamFile ./a7a1.sam -output_nt a7a1_nt_comp.tab -output_p a7a1_nt_comp_p.tab -sora_normalized a7a1_normalized.png -sora a7a1.png
+python nt_comp.py -SamFile ./test_genomic.sam -output_nt test_nt_comp.tab -output_p test_nt_comp_p.tab -sora_normalized test_normalized.png -sora test.png
 
